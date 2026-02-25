@@ -9,8 +9,8 @@
 ## 🛠 Skills
 
 ### Frontend Development
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript (Basics)
 - Responsive Web Design
 
@@ -41,7 +41,7 @@ Built an interactive console-based application implementing control flow, logica
 **Tech Stack:** Python
 
 ---
-###Student Result Management System
+# Student Result Management System
 
 A web-based application developed to manage and calculate student academic results efficiently.  
 The system allows users to enter student details and subject marks, automatically computes total marks, average score, and generates grades based on performance.
