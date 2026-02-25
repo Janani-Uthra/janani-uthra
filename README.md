@@ -20,7 +20,6 @@
 - Data Structures (Learning)
 
 ### Tools
-- Git
 - GitHub
 - VS Code
 
